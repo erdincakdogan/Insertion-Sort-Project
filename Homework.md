@@ -1,3 +1,5 @@
+## Patika Homework
+
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 22 17 16 2 18 6
